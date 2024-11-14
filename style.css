@@ -1,0 +1,10 @@
+.block {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 1px solid #333;
+}
+
+.block-colored {
+    background-color: #ff6347;
+}
